@@ -31,6 +31,6 @@ Este repositorio irá incorporando ejercicios y proyectos relacionados con:
 
 ---
 
-# 🧪 Ejercicios actuales
+# 🚀 Ejercicios actuales
 
-### 📌 [CIFAR-10 - Clasificación de imágenes](./Ejercicio1_ClasificacionDeImagenes.py)
+### [CIFAR-10 - Clasificación de imágenes](./Ejercicio1_ClasificacionDeImagenes.py)
