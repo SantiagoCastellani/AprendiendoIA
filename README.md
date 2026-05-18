@@ -30,3 +30,7 @@ Este repositorio irá incorporando ejercicios y proyectos relacionados con:
 - Experimentación con datasets
 
 ---
+
+# 🧪 Ejercicios actuales
+
+## 📌 [CIFAR-10 - Clasificación de imágenes](./Ejercicio1.ClasificacionDeImagenes.py)
