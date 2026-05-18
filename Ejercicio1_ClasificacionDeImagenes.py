@@ -2,6 +2,7 @@
 # Proyecto de Inteligencia Artificial con Python y Colab
 # Clasificación de imágenes utilizando TensorFlow y Keras
 # Dataset: CIFAR-10
+# Conceptos aplicados: Conv2D, MaxPooling, Dense Layers, Softmax, Entrenamiento de modelos, Predicción de imágenes
 # =========================================================
 
 import tensorflow as tf
