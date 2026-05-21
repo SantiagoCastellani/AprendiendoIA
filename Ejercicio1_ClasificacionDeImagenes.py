@@ -5,6 +5,8 @@
 # Conceptos aplicados: Conv2D, MaxPooling, Dense Layers, Softmax, Entrenamiento de modelos, Predicción de imágenes
 # =========================================================
 
+## CELDA 1 ##
+
 import tensorflow as tf
 from tensorflow.keras import layers, models
 import matplotlib.pyplot as plt
@@ -69,6 +71,7 @@ print("Precisión:", test_acc)
 ######### EJECUCION ##########
 # =========================================================
 
+## CELDA 2 ##
 
 from google.colab import files
 from tensorflow.keras.preprocessing import image
