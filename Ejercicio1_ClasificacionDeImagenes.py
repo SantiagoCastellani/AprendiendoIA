@@ -65,6 +65,11 @@ test_loss, test_acc = model.evaluate(test_images, test_labels)
 
 print("Precisión:", test_acc)
 
+# =========================================================
+######### EJECUCION ##########
+# =========================================================
+
+
 from google.colab import files
 from tensorflow.keras.preprocessing import image
 import numpy as np
