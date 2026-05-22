@@ -35,4 +35,4 @@ Este repositorio irá incorporando ejercicios y proyectos relacionados con:
 
 ### [CIFAR-10 - Clasificación de imágenes](./Ejercicio1_ClasificacionDeImagenes.py)
 
-### [](Ejercicio2_Analisis_de_Reseñas_de_Peliculas.py)
+### [Películas - Análisis de sentimientos con NPL](Ejercicio2_Analisis_de_Reseñas_de_Peliculas.py)
