@@ -38,3 +38,5 @@ Este repositorio irá incorporando ejercicios y proyectos relacionados con:
 ### [Películas - Análisis de sentimientos con NPL](Ejercicio2_Analisis_de_Reseñas_de_Peliculas.py)
 
 ### [Reconocimiento de Dígitos Escritos a Mano con Redes Neuronales](Ejercicio3_Identificacion_de_digitos.ipynb)
+
+### [Clasificación de Flores Iris](Ejercicio4_Clasificacion_Flores.ipynb)
