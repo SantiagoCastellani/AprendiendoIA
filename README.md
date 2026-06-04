@@ -35,6 +35,8 @@ Este repositorio irá incorporando ejercicios y proyectos relacionados con:
 
 ### [Gestor de Tareas](Gestor_de_Tareas.py)
 
+### [Juego de Roles](Juego_de_Roles.py)
+
 ---
 
 # 🚀 Ejercicios actuales
