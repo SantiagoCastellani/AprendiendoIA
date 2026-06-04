@@ -42,3 +42,5 @@ Este repositorio irá incorporando ejercicios y proyectos relacionados con:
 ### [Clasificación de Flores Iris](Ejercicio4_Clasificacion_Flores.ipynb)
 
 ### [Predicción de Precios de Casas — Regresión con Machine Learning](Ejercicio5_Prediccion_Precios_Casas.ipynb)
+
+### [Detector de Spam — Clasificación de Texto con NLP](Ejercicio6_Detector_de_spam.ipynb)
