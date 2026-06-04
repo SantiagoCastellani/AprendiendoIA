@@ -40,3 +40,5 @@ Este repositorio irá incorporando ejercicios y proyectos relacionados con:
 ### [Reconocimiento de Dígitos Escritos a Mano con Redes Neuronales](Ejercicio3_Identificacion_de_digitos.ipynb)
 
 ### [Clasificación de Flores Iris](Ejercicio4_Clasificacion_Flores.ipynb)
+
+### [Predicción de Precios de Casas — Regresión con Machine Learning](Ejercicio5_Prediccion_Precios_Casas.ipynb)
