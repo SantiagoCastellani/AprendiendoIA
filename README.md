@@ -31,7 +31,11 @@ Este repositorio irá incorporando ejercicios y proyectos relacionados con:
 
 ---
 
-## [Sintaxis en Python](Sintaxis_Python.py)
+### [Sintaxis en Python](Sintaxis_Python.py)
+
+### [Gestor de Tareas](Gestor_de_Tareas.py)
+
+---
 
 # 🚀 Ejercicios actuales
 
