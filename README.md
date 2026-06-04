@@ -31,6 +31,8 @@ Este repositorio irá incorporando ejercicios y proyectos relacionados con:
 
 ---
 
+# 📚 Aprendiendo Python
+
 ### [Sintaxis en Python](Sintaxis_Python.py)
 
 ### [Gestor de Tareas](Gestor_de_Tareas.py)
@@ -39,7 +41,7 @@ Este repositorio irá incorporando ejercicios y proyectos relacionados con:
 
 ---
 
-# 🚀 Ejercicios actuales
+# 🚀 Ejercicios en colab
 
 ### [CIFAR-10 - Clasificación de imágenes](./Ejercicio1_ClasificacionDeImagenes.py)
 
