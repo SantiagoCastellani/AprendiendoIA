@@ -31,6 +31,8 @@ Este repositorio irá incorporando ejercicios y proyectos relacionados con:
 
 ---
 
+## [Sintaxis en Python](Sintaxis_Python.py)
+
 # 🚀 Ejercicios actuales
 
 ### [CIFAR-10 - Clasificación de imágenes](./Ejercicio1_ClasificacionDeImagenes.py)
