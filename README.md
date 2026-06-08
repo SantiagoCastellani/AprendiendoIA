@@ -56,3 +56,5 @@ Este repositorio irá incorporando ejercicios y proyectos relacionados con:
 ### [Predicción de Precios de Casas — Regresión con Machine Learning](Ejercicio5_Prediccion_Precios_Casas.ipynb)
 
 ### [Detector de Spam — Clasificación de Texto con NLP](Ejercicio6_Detector_de_spam.ipynb)
+
+### [Introduccion a las Redes Neuronales](Ejercicio7_Redes_Neuronales.ipynb)
